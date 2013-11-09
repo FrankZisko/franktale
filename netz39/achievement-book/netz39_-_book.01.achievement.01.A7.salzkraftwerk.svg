@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="262.20471"
+   height="372.04724"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     width="252.64581"
+     height="363.25497"
+     ry="19.507837"
+     x="5.5558391"
+     y="5.8669434"
+     id="rect2985"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <rect
+     width="109.80126"
+     height="100.88339"
+     x="5.573668"
+     y="4.7425232"
+     id="rect2984"
+     style="fill:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     width="87.506584"
+     height="79.146088"
+     x="35.671474"
+     y="35.397697"
+     id="rect3757"
+     style="fill:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     width="82.58017"
+     height="88.040016"
+     ry="22.852039"
+     x="19.511656"
+     y="19.795242"
+     id="rect3759"
+     style="fill:none;stroke:#000000;stroke-width:6.12200022;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <text
+     x="132.65329"
+     y="41.528717"
+     id="text3786"
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
+       x="132.65329"
+       y="41.528717"
+       id="tspan3788">Hackername</tspan></text>
+  <text
+     x="41.802509"
+     y="69.397072"
+     id="text3790"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="41.802509"
+       y="69.397072"
+       id="tspan3792">Bild</tspan></text>
+  <text
+     x="9.475235"
+     y="207.62405"
+     id="text3794"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="9.475235"
+       y="207.62405"
+       id="tspan3796">Hackerspace</tspan></text>
+  <path
+     d="m 6.6884015,188.67357 251.9297885,0"
+     id="path3798"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 122.62069,47.1024 119.2765,0"
+     id="path3800"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 123.17805,76.085473 116.48967,0"
+     id="path3802"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 123.73543,105.06855 113.70282,0"
+     id="path3804"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 5.573668,340.27733 252.487162,0"
+     id="path3806"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     x="33.442005"
+     y="356.99832"
+     id="text3808"
+     xml:space="preserve"
+     style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="33.442005"
+       y="356.99832"
+       id="tspan3810">HackerID </tspan><tspan
+       x="33.442005"
+       y="369.49832"
+       id="tspan3814" /></text>
+  <text
+     x="129.3091"
+     y="349.19519"
+     id="text3818"
+     xml:space="preserve"
+     style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="129.3091"
+       y="349.19519"
+       id="tspan3820">md5hash aus nickname</tspan><tspan
+       x="129.3091"
+       y="361.69519"
+       id="tspan3822">+ austellungsdatum</tspan></text>
+  <path
+     d="m 27.310973,236.04974 202.881517,0"
+     id="path3824"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 28.425707,267.26228 200.652043,0"
+     id="path3826"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 28.425707,298.47482 196.750483,0"
+     id="path3828"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 28.425706,329.68737 192.291544,0"
+     id="path3830"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>
